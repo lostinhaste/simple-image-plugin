@@ -1,0 +1,6 @@
+{
+	"version": "0.1.0",
+	"title": "Simple Image",
+	"description": "Yet another image plugin, allowing customization with Shortcodes.",
+	"includes": [ "image.html" ]
+}
