@@ -1,5 +1,5 @@
 {
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"title": "Simple Image Generation",
 	"description": "Yet another image plugin, allowing the customization of Image tag generation using Shortcodes instead of HTML.",
 	"includes": [ "simple-image.html" ]

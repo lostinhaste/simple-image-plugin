@@ -1,7 +1,7 @@
 # Simple Image Generation - Hugo Plugin for Micro.blog 🎞️
 Yet _another_ image plugin for Micro.blog, allowing customization of image tag generation with Shortcodes, without having to write HTML. The plugin uses various parameter (see below) to generate HTML within a `<figure>` element.
 
-![icon](icon.png)
+![Screen shot of HTML and the resulting image](https://raw.githubusercontent.com/lostinhaste/simple-image-plugin/main/icon.png)
 
 -----
 
@@ -125,3 +125,10 @@ Including the _attr_ and _attrlink_ parameters will allow for the creation of a 
     </figcaption>
 </figure>
 ```
+
+## Change Logs
+
+| Version | Date | Description |
+|---|---|---|
+| 1.0.1 | December 15, 2023 | Updating the README.md file with a hard-coded link to the project image (allows said image to appear in Micro.blog). |
+| 1.0.0 | November 3, 2023 | The initial release of the project. |
